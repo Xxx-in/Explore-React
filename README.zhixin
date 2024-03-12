@@ -1,0 +1,20 @@
+This is Part 1-1>
+File documentating how the sample codes help me 
+
+What is explored in this directory:
+1. How to create React component
+2. How to import/export to share assets
+3. How to pass props to React component for dynamic rendering
+- Different ways to pass in & its corresponding way to access props 
+4. When there is conflicitng naming of HTML elements vs React Component, React only recognises Capitalised as its component
+5. JS 
+- JS vs JSX
+- ... acting as spread operator OR rest operator + Destructure
+
+What is each file covering:
+1. 0_main.jsx: Render app
+2. 1_App.jsx: Create React Components & stitch individual Components together to form proper view + use props for dynamic rendering
+3. 2_Curlies.jsx: Define placeholder value in React Component to be replaced with actual value when rendered dynamically
+4. 3_JS_vs_JSX: Explore difference between JS vs JSX; JSX as extension with sole intentin to declare UI component
+5. 4_JS_rest_spread_destructure: JS concept (Note: to be executed as a single .js file; not used in building app)
+5. 5_Props: Learn different ways to pass values as a single prop object into React Component & corresponding ways to access values within React Component functio
