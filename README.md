@@ -1,6 +1,10 @@
+# Preface
+This repository consists of template codes used on my journey of learning React based on the materials provided on: [React Learn Website](https://react.dev/learn/describing-the-ui)
+
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules. 
+Execute `npm create vite@latest directoryName -- --template react` in the terminal to download the project template.
 
 Currently, two official plugins are available:
 
