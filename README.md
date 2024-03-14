@@ -1,5 +1,5 @@
 # Preface
-This repository consists of template codes used on my journey of learning React based on the materials provided on: [React Learn Website](https://react.dev/learn/describing-the-ui)
+This repository consists of template codes used on my journey of learning React based on the materials provided on [React Learn Website]. (https://react.dev/learn/describing-the-ui). Note that this repository will aim to cover the properties & capabilities of React in depth.
 
 # React + Vite
 
